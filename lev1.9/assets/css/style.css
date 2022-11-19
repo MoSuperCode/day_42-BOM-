@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+div {
+    text-align: center;
+    display: block;
+    margin: 20vh auto;
+    width: 500px;
+    border: 30px white solid;
+    border-radius: 90px;
+}
+
+p {
+    background-color: black;
+    color: antiquewhite;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 50px;
+    border-radius: 50px;
+    font-size: 4rem;
+}
